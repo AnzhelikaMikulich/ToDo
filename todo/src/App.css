@@ -1,0 +1,13 @@
+.App {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.post {
+  display: flex;
+  width: 300px;
+  padding: 15px;
+  border: 2px solid orange;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
